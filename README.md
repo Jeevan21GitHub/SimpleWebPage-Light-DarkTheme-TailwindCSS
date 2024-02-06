@@ -1,4 +1,4 @@
-# html-tailwind-website-before-dark-mode
+# Simple Web Page Light & Dark Theme Using TailwindCSS
 
 ### Run the following command to install the required packages
 > npm i -D
